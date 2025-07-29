@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Leetcode Stats](https://leetcard.JaymarLumasag/JaymarLumasag)](https://leetcode.com/JaymarLumasag)
+[![Leetcode Stats](https://leetcard.Jacoblin.cool/JaymarLumasag)](https://leetcode.com/JaymarLumasag)
 <!--
 **JaymarLumasag/JaymarLumasag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
